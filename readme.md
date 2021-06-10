@@ -16,14 +16,14 @@ Require this package in your `composer.json`
 
 ```
 "require": {
-	carlos-meneses/laravel-mpdf: "2.1.6"
+	joaozica/laravel-mpdf: "2.1.6"
 }
 ```
 
 or install it by running:
 
 ```
-composer require carlos-meneses/laravel-mpdf
+composer require joaozica/laravel-mpdf
 ```
 
 To start using Laravel, add the Service Provider and the Facade to your `config/app.php`:
